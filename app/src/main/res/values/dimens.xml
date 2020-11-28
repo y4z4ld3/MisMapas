@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="num_cols_grid">3</dimen>
+    <dimen name="padding_grid">10dp</dimen>
+    <dimen name="padding_layout">20dp</dimen>
+    <dimen name="elevacion_acc_bat">4dp</dimen>
+</resources>

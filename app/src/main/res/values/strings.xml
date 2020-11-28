@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mis Mapas</string>
+    <string name="ciudad_quito">Quito</string>
+    <string name="ciudad_caracas">Caracas</string>
+    <string name="ciudad_paris">Paris</string>
+    <string name="ciudad_roma">Roma</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="pLatitud">pLatitud</string>
+    <string name="pLongitud">pLongitud</string>
+    <string name="pNombreCiudad">pNombreCiudad</string>
+    <string name="pMarcadorCiudad">pMarcadorCiudad</string>
+</resources>
